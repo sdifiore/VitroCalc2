@@ -1,0 +1,16 @@
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\VitroCalc.exe
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\VitroCalc.deps.json
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\VitroCalc.runtimeconfig.json
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\VitroCalc.runtimeconfig.dev.json
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\VitroCalc.dll
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\ref\VitroCalc.dll
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\bin\Debug\net5.0\VitroCalc.pdb
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.csproj.AssemblyReference.cache
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.AssemblyInfoInputs.cache
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.AssemblyInfo.cs
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.csproj.CoreCompileInputs.cache
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.dll
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\ref\VitroCalc.dll
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.pdb
+C:\Users\difio\OneDrive - Fatec Centro Paula Souza\estudos\Fatec\Turma\App Web de A-Z\Exemplos\Console\VitroCalc\obj\Debug\net5.0\VitroCalc.genruntimeconfig.cache
